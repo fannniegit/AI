@@ -1,0 +1,27 @@
+header {
+    background-color:  #cd51ff;
+    margin-top: 40px;
+}
+
+body {
+background-image: url('face.gif')
+
+}
+
+h1 {
+    text-align: center;
+    margin-top: -70px;
+    background-color:  #cae8ff;
+}
+
+h3 {
+  text-decoration: underline;
+  color: #cae8ff;
+}
+
+ol, li {
+    color: #ffffff;
+}
+b{
+    color: #ffffff;
+}

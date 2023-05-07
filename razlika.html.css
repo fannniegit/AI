@@ -1,0 +1,13 @@
+header {
+    background-color:  #D2B48C;
+    margin-top: 40px;
+}
+h1 {
+    text-align: center;
+    margin-top: -70px;
+    background-color:  #FFEBCD;
+}
+
+body {
+    background-image: linear-gradient(to right, #b29f94, #b29f94, #603813);
+}

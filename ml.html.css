@@ -1,0 +1,33 @@
+div{
+    padding: 100px 
+}
+
+table {
+    border: 5px solid #def201;
+}
+
+td{
+    background-color: #d5f1fa;
+}
+
+th{
+    background-color: #def201;
+    border: 4px dashed #38d63e;
+}
+
+body {
+background: #E0EBFC;
+background: -webkit-linear-gradient(top left, #E0EBFC, #B20A2D);
+background: -moz-linear-gradient(top left, #E0EBFC, #B20A2D);
+background: linear-gradient(to bottom right, #E0EBFC, #B20A2D);
+}
+
+header {
+    background-color:  #c3081d;
+    margin-top: 40px;
+}
+h1 {
+    text-align: center;
+    margin-top: -70px;
+    background-color:  #cae8ff;
+}

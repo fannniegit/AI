@@ -1,0 +1,32 @@
+audio {
+    width: 1000px;
+    height: 54px;
+}
+header {
+    background-color:  #cae8ff;
+    margin-top: 40px;
+}
+h1 {
+    text-align: center;
+    margin-top: -70px;
+    background-color: #98d2fe;
+}
+body {
+background-image: url('gifb.gif') 
+}
+
+h4 {
+    color: #ffffff;
+  border: none;
+  padding: 10px;
+  width: 800px;
+  height: 200px;
+  text-align: justify;
+}
+
+audio{
+  border: none;
+  padding: 10px;
+  width: 800px;
+  height: 200px;
+  }
